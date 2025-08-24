@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" baseProfile="tiny" width="100%" height="100%" viewBox="0 0 400 600" preserveAspectRatio="xMinYMin meet">
+<g transform="scale(1.02 1) translate(-3.921568627450984 0)">
+<path fill="#ddb7a0" stroke="#000" stroke-width="6" d="M10 600s-10-70 50-70c10 0 0-10 60-20 0 0 50-210 80-210s80 210 80 210c60 10 50 20 60 20 60 0 50 70 50 70"/><path d="M71 545s46.9-3 82.1 10M329 545s-46.9-3-82.1 10m77.1-18s5.5-7.5 22-7m-271 7s-5.5-7.5-22-7"/>
+</g>
+<g transform="scale(1.02 1) translate(-3.921568627450984 0)">
+<g stroke="#000"><path fill="#89bfd3" stroke-width="6" d="M120 505c0 20 50 15 80 35 30-20 80-15 80-35 0 0 50-5 80 5 0 0 20 10 30 40s10 60 10 60H0s0-30 10-60 30-40 30-40c30-10 80-5 80-5Z" class="hockeyPrimary"/><path fill="#07364f" d="M4.5 577.03S10 580 20 580c30-15 110-20 180-20 90 0 150 5 180 20 10 0 17-2.97 17-2.97l1 12.97s-8 5-18 5c-40-20-110-22.48-180-22.48-80 0-150 2.48-180 22.48-10 0-18-5-18-5z" class="stripeAccent"/><path fill="#7a1319" stroke-width="2" d="M172.5 545.53c-110-4.5-152 22.5-152 22.5s-9 1-14.5-5c15-48 34-53.03 34-53.03s50-5 80-5c0 20 52.5 40.53 52.5 40.53Zm55 0c110-4.5 152 22.5 152 22.5s9 1 14.5-5c-15-48-34-53.03-34-53.03s-50-5-80-5c0 20-52.5 40.53-52.5 40.53Z" class="shoulderSecondary"/><path fill="#07364f" stroke-width="2" d="M120 505c0 20 50 15 80 30 30-15 80-10 80-30l15-1c0 41-40 21-95 56-55-35-95-15-95-56z" class="collarAccent"/><path fill="none" stroke-width="6" d="M120 505c0 20 50 15 80 35 30-20 80-15 80-35 0 0 50-5 80 5 0 0 20 10 30 40s10 60 10 60H0s0-30 10-60 30-40 30-40c30-10 80-5 80-5Z" class="hockeyStroke"/><path fill="#7a1319" stroke-width="2" d="M180 528.21h40l10 17.05L200 564l-30-18.74z" class="shieldSecondary"/></g>
+</g>
+<g transform="translate(33.53553390593274 291.01362954285077) scale(0.91 0.91) translate(2.1228592840286296 3.3612893858719004) translate(6.0610678118654775 -2.979591836734694)">
+<path fill="#ddb7a0" stroke="#000" stroke-width="6" d="M40 14S10-1 5 4s0 30 5 40-5 25 30 20z"/>
+</g>
+<g transform="translate(323.53553390593277 291.01362954285077) scale(-0.91 0.91) translate(-45.05179147216315 3.3612893858719004) translate(6.0610678118654775 -2.979591836734694)">
+<path fill="#ddb7a0" stroke="#000" stroke-width="6" d="M40 14S10-1 5 4s0 30 5 40-5 25 30 20z"/>
+</g>
+<g transform="scale(0.9420000000000001 1) translate(12.314225053078541 0)">
+<path fill="#ddb7a0" stroke="#000" stroke-width="6" d="M200 100c100 0 150 60 150 200-10 160 0 110-100 190-10 10-30 20-50 10-20 10.9-40 0-50-10-100-80-90-30-100-190 0-140 50-200 150-200Z" class="head"/><path fill="rgba(0,0,0,0)" d="M200 410c30 0 50 10 50 10 30 0 90-15 90-120h10c-10 160 0 110-100 190-10 10-30 20-50 10-20 10-38.96-1.17-50-10-100-80-90-30-100-190h10c0 105 60 120 90 120 0 0 20-10 50-10" class="faceShave"/><path fill="rgba(0,0,0,0)" d="M60 300H50c0-140 50-200 150-200s150 60 150 200h-10v-10c0-5-10-20-15-25s-5-55-15-65c-40-40-60 0-110 0s-70-40-110 0c-10 10-10 60-15 65s-15 20-15 25z" class="headShave"/>
+</g>
+<g>
+<path fill="none" stroke="#000" stroke-width="2" d="M235 285s10-10 45-10m-115 10s-10-10-45-10" class="eyeline6"/>
+</g>
+<g transform="translate(142.67 417.5) scale(0.57 0.57) translate(5.529649122807019 13.201754385964916)">
+<path fill="none" stroke="#000" stroke-width="2" d="M12.33 4.32s-10 3.29-10 13.18 10 13.18 10 13.18" class="shp0"/>
+</g>
+<g transform="translate(242.67 417.5) scale(-0.57 0.57) translate(-20.18964912280702 13.201754385964916)">
+<path fill="none" stroke="#000" stroke-width="2" d="M12.33 4.32s-10 3.29-10 13.18 10 13.18 10 13.18" class="shp0"/>
+</g>
+<g transform="translate(-120.29753770446098 -23.177101781228032) rotate(-4 260.297537704461 333.17710178122803)">
+<path d="M259.01 349.54c-13.866-.398-24.71-6.089-24.71-19.05 10.7-18.063 40.386-18.358 51.25-.275 4.415 12.208-11.607 19.753-26.54 19.325" style="fill:#fff;stroke:#000;stroke-linecap:round;stroke-linejoin:round;stroke-width:5"/><path d="M259.552 325.177c-10 0-10 15 0 15s10-15 0-15" style="fill:#000;stroke:#000;stroke-linecap:round;stroke-linejoin:round;stroke-width:4"/>
+</g>
+<g transform="translate(-0.2975377044609786 -23.177101781228032) rotate(4 260.297537704461 333.17710178122803) scale(-1 1) translate(-520.595075408922 0)">
+<path d="M259.01 349.54c-13.866-.398-24.71-6.089-24.71-19.05 10.7-18.063 40.386-18.358 51.25-.275 4.415 12.208-11.607 19.753-26.54 19.325" style="fill:#fff;stroke:#000;stroke-linecap:round;stroke-linejoin:round;stroke-width:5"/><path d="M259.552 325.177c-10 0-10 15 0 15s10-15 0-15" style="fill:#000;stroke:#000;stroke-linecap:round;stroke-linejoin:round;stroke-width:4"/>
+</g>
+<g transform="translate(101.91746012211166 257.0658529346995) rotate(5 38.082539877888344 12.934147065300508)">
+<path fill="#5A3825" stroke="#000" d="M74.17 18.39c5.31-3.87-1.66-7.27-1.66-7.27s-20.66-2.78-26.56-3.1c-7.56-.72-22.76-1.1-22.76-1.1S10.98 10 18.3 16.95c10.59 2.96 14.71-1.32 31.19-.91 16.85.28 21.74 4.37 24.68 2.35Z"/><path d="M0 10h5v5H0z" style="fill:none"/>
+</g>
+<g transform="translate(221.91746012211166 257.0658529346995) rotate(-5 38.082539877888344 12.934147065300508) scale(-1 1) translate(-76.16507975577669 0)">
+<path fill="#5A3825" stroke="#000" d="M74.17 18.39c5.31-3.87-1.66-7.27-1.66-7.27s-20.66-2.78-26.56-3.1c-7.56-.72-22.76-1.1-22.76-1.1S10.98 10 18.3 16.95c10.59 2.96 14.71-1.32 31.19-.91 16.85.28 21.74 4.37 24.68 2.35Z"/><path d="M0 10h5v5H0z" style="fill:none"/>
+</g>
+<g transform="translate(169 428)">
+<path d="m1 22 60-10L51 2" style="fill:none;stroke:#000;stroke-width:5"/>
+</g>
+<g transform="translate(0 -20) scale(-0.97 0.97) translate(-406.1855670103093 12.061855670103103)">
+<path fill="#ddb7a0" stroke="#000" stroke-width="5" d="m175 380 25 20 25-20" class="nose"/>
+</g>
+<g transform="scale(0.9420000000000001 1) translate(12.314225053078541 0)">
+<defs><linearGradient id="a" x1="200" x2="200" y1="100" y2="310" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="rgba(0,0,0,.25)"/><stop offset="1" stop-color="rgba(0,0,0,0)"/></linearGradient></defs><g style="opacity:1;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"><path d="M60 310H50v-10c0-140 50-200 150-200s150 60 150 200v10h-10v-20c0-5-10-20-15-25s-5-55-15-65c-40-40-56.429-38.095-106.429-38.095S130 160 90 200c-10 10-10 60-15 65s-15 20-15 25z" style="fill:url(#a);stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"/></g><path fill="#5A3825" stroke="#000" stroke-width="4" d="M200 95c120 0 140 90 140 115-20 0-20 5-25 0s-14.444-11.112-49.444-11.112c-15 0-39.96-.317-64.96-.317s-50.04.317-65.04.317C100.556 198.888 90 205 85 210s-5 0-25 0c0-25 25-115 140-115Z"/>
+</g>
+</svg>

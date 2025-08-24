@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" baseProfile="tiny" width="100%" height="100%" viewBox="0 0 400 600" preserveAspectRatio="xMinYMin meet">
+<g transform="scale(1.01 1) translate(-1.9801980198019815 0)">
+<path fill="#ddb7a0" stroke="#000" stroke-width="6" d="M5 600s-5-60 35-70c0 0 40 0 90-30l70-200 70 200c50 30 90 30 90 30 40 10 35 70 35 70" class="body"/>
+</g>
+<g transform="scale(1.01 1) translate(-2.0049504950495067 0)">
+<g stroke="#000"><path fill="#7a1319" stroke-width="3" d="M120 505s35 40 80 40 80-40 80-40v95H120z" class="s0"/><path fill="#89bfd3" stroke-width="6" d="M120 504.6c10 45.4 80 55.4 90 65.4s10 40 10 40H-5s5-40 5-50 10-30 40-40 50 0 80-15.4z" class="s0"/><path fill="#89bfd3" stroke-width="6" d="M360 520c30 10 40 30 40 40s10 50 10 50H180s0-40 10-50 80-10 90-55c30 15 50 5 80 15z" class="s0"/><path fill="#89bfd3" stroke-width="1.5" d="M196 597c-2.8 0-5-2.2-5-5s2.2-5 5-5 5 2.2 5 5-2.2 5-5 5zm-2-5h1m2 0h1" class="s1"/></g><g fill="none" stroke="#000" stroke-width="6"><path d="M120 504.6c6.9 37.6 62.2 49.3 67.9 57-7.8 11.2-8 48.4-8 48.4H-5s5-40 5-50 10-30 40-40 50 0 80-15.4z" class="s5"/><path d="M360 520c30 10 40 30 40 40s10 50 10 50H180s0-40 10-50 80-10 90-55c30 15 50 5 80 15z" class="s5"/></g>
+</g>
+<g transform="translate(33.53553390593274 291.01362954285077) scale(1.32 1.32) translate(-5.203506931895094 -8.239120110824057) translate(20.011067811865477 -2.979591836734694)">
+<path fill="#ddb7a0" stroke="#000" stroke-width="6" d="M40 14S10-1 5 4s0 30 5 40-5 25 30 20z"/>
+</g>
+<g transform="translate(323.53553390593277 291.01362954285077) scale(-1.32 1.32) translate(-37.72542525623943 -8.239120110824057) translate(20.011067811865477 -2.979591836734694)">
+<path fill="#ddb7a0" stroke="#000" stroke-width="6" d="M40 14S10-1 5 4s0 30 5 40-5 25 30 20z"/>
+</g>
+<g transform="scale(0.8520000000000001 1) translate(34.74178403755866 0)">
+<path fill="#ddb7a0" stroke="#000" stroke-width="6" d="M200 100c100 0 150 60 150 200 0 70-50 200-150 200S50 370 50 300c0-140 50-200 150-200Z" class="head"/><path fill="rgba(0,0,0,0)" d="M200 410c30 0 50 10 50 10 30 0 90-15 90-120h10c0 70-50 200-150 200S50 370 50 300h10c0 105 60 120 90 120 0 0 20-10 50-10" class="faceShave"/><path fill="rgba(0,0,0,0)" d="M60 300H50c0-140 50-200 150-200s150 60 150 200h-10v-10c0-5-10-20-15-25s-5-55-15-65c-40-40-60 0-110 0s-70-40-110 0c-10 10-10 60-15 65s-15 20-15 25z" class="headShave"/>
+</g>
+<g>
+<path fill="none" stroke="#000" stroke-width="2" d="M300 320s5 5 10 5m-13.25-2.47S300 335 305 335m-205-15s-5 5-10 5m13.25-2.47S100 335 95 335" class="eyeline2"/>
+</g>
+<g transform="translate(144.4807306749833 416) scale(1.07 1.07) translate(-0.36107369415997187 -1.2429906542056086)">
+<path fill="none" stroke="#000" stroke-width="2" d="M9 2s-12.5 8.95-4 34" class="shp0"/>
+</g>
+<g transform="translate(244.4807306749833 416) scale(-1.07 1.07) translate(-10.677464955873445 -1.2429906542056086)">
+<path fill="none" stroke="#000" stroke-width="2" d="M9 2s-12.5 8.95-4 34" class="shp0"/>
+</g>
+<g transform="translate(104.75510204081633 287) rotate(7 35.24489795918368 23)">
+<path d="M67 35c0-4 6-32-24-32S3 15 3 23s12 20 24 20 40-4 40-8Z" style="fill:#fff;stroke:#000;stroke-width:5"/><path d="M39 29c-3.32 0-6-2.68-6-6s2.68-6 6-6 6 2.68 6 6-2.68 6-6 6Z" style="fill:#000;stroke:#000;stroke-width:5"/>
+</g>
+<g transform="translate(224.75510204081633 287) rotate(-7 35.24489795918368 23) scale(-1 1) translate(-70.48979591836736 0)">
+<path d="M67 35c0-4 6-32-24-32S3 15 3 23s12 20 24 20 40-4 40-8Z" style="fill:#fff;stroke:#000;stroke-width:5"/><path d="M39 29c-3.32 0-6-2.68-6-6s2.68-6 6-6 6 2.68 6 6-2.68 6-6 6Z" style="fill:#000;stroke:#000;stroke-width:5"/>
+</g>
+<g transform="translate(101.2222222222222 261) rotate(16 38.77777777777779 9)">
+<path fill="#272421" stroke="#000" d="M73 13c8-8 0-12 0-12S45 5 37 5H1s20 12 40 12c12 0 28 0 32-4Z"/>
+</g>
+<g transform="translate(221.2222222222222 261) rotate(-16 38.77777777777779 9) scale(-1 1) translate(-77.55555555555559 0)">
+<path fill="#272421" stroke="#000" d="M73 13c8-8 0-12 0-12S45 5 37 5H1s20 12 40 12c12 0 28 0 32-4Z"/>
+</g>
+<g transform="translate(168 428.3888888888889) scale(-1 1) translate(-64 0)">
+<path d="M32 3c10 0 15 0 25 5 5 5 5 5 0 10s-15 0-25 0-20 5-25 0-5-5 0-10c10-5 15-5 25-5Z" style="fill:#fff;stroke:#000;stroke-width:5"/>
+</g>
+<g transform="translate(160 318.75) scale(1.03 1.03) translate(-1.4886731391585775 -1.4927184466019432)">
+<path fill="#ddb7a0" stroke="#000" stroke-width="5" d="M40 40s50-30 0 30"/>
+</g>
+</svg>

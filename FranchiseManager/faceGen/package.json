@@ -1,0 +1,16 @@
+{
+  "name": "face-generator",
+  "version": "1.0.0",
+  "description": "Generate 1000 unique SVG faces using facesjs",
+  "type": "module",
+  "main": "generateFaces.js",
+  "scripts": {
+    "start": "node generateFaces.js",
+    "generate": "node generateFaces.js"
+  },
+  "dependencies": {
+    "facesjs": "^5.0.1"
+  },
+  "author": "",
+  "license": "MIT"
+}

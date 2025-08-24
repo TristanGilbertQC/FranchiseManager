@@ -1,0 +1,57 @@
+📝 CLI Instructions for Claude
+Task: Extend playModel.swift with new player attributes.
+⚠️ Rules of Engagement
+Do not touch any other files.
+Do not delete or modify existing properties or logic.
+Only add the new attributes in a structured way.
+Treat this as a work in progress. Code should be additive, not destructive.
+🎯 Implementation Goals
+Add three main categories of attributes to playModel.swift:
+Technical
+Mental
+Physical
+Each category should contain the following attributes as Int values (default to 0 unless otherwise defined).
+Technical
+Stickhandling
+Dangles
+Puck Protection
+Passing Accuracy
+Passing Power
+Saucer Pass
+Shooting Accuracy
+Shooting Power
+Release
+Deflections
+Faceoffs
+Screening
+Stick Checking
+Shot Blocking
+Poke Checking
+Body Checking
+Mental
+Offensive IQ
+Defensive IQ
+Decision Making
+Creativity
+Vision
+Timing
+Off the Puck
+Anticipation
+Spatial Awareness
+Hand-Eye Coordination
+Focus
+Clutch
+Composure
+Aggression
+Drive
+Work Rate
+Physical
+Speed
+Acceleration
+Agility
+Balance
+Strength
+Stamina
+Durability
+Size
+Reach
